@@ -806,7 +806,7 @@
       <workItem from="1520395404978" duration="59886000" />
       <workItem from="1520905775121" duration="20012000" />
       <workItem from="1521012484844" duration="29540000" />
-      <workItem from="1521166219820" duration="893000" />
+      <workItem from="1521166219820" duration="901000" />
     </task>
     <task id="LOCAL-00001" summary="完成了对注册的验证 主要是使用json进行交互，且使用了自定义的的resutl泛型类作为返回信息">
       <created>1520997449918</created>
@@ -838,11 +838,17 @@
       <option name="project" value="LOCAL" />
       <updated>1521167113078</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="papa的push2">
+      <created>1521167122766</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1521167122766</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131422000" />
+    <option name="totallyTimeSpent" value="131430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
