@@ -6,6 +6,6 @@ public class testPush {
     public static void main(String[] args) {
         System.out.println();
 
-        System.out.println("你妹啊握草");
+        System.out.println("你妹啊握草2");
     }
 }
